@@ -14,4 +14,4 @@ if __name__ == "__main__":
         result = agent.process(item)
         print(f"Input: {item}")
         print(f"Decision: {result}")
-        print("-----")
+        print("------")

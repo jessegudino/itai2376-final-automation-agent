@@ -1,1 +1,2 @@
-# Placeholder for main agent logic
+def run_agent():
+    print("Automation agent is running...")

@@ -1,1 +1,1 @@
-# Makes this folder a Python package
+# Initializes the agent package
